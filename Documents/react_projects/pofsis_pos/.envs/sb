@@ -1,0 +1,58 @@
+# ENVIRONMENT
+REACT_APP_ENV = "sb"
+
+# PERSONAL 
+REACT_APP_URL_TOOL_PSL = "https://sb-pofyourtool.pofsis.com/psl"
+
+# API URL
+REACT_APP_API_URL_TOOL_PSL = "https://u4ajkqins2.execute-api.ap-southeast-1.amazonaws.com"
+
+# API KEYS
+REACT_APP_TOOL_API_KEY_PSL = "LlSuT9tJfc6BnceWx3NrP5K71zZPrUxS4wJO12Tl"
+REACT_APP_AUI_KEY_PSL = "U1JPOFJYbDZzK0dJMG1ZYzl3MHJYSzgvcUI5OXBHcGI4SkJ1eWlwbkpDVT0="
+REACT_APP_TSA_KEY_PSL = "WEIrd1cyTnR2L2FZeFhBZDRCc3NWbnN2VUVGN2gxST0="
+
+# TOOL ID
+REACT_APP_TID_PSL = "18"
+
+# <<<<<<<<<<<<----------------------->>>>>>>>>>>>>>
+
+# BUSINESS 
+REACT_APP_URL_TOOL_BIZ = "https://sb-pofyourtool.pofsis.com/biz"
+
+# API URL
+REACT_APP_API_URL_TOOL_BIZ = "https://izt977ow47.execute-api.ap-southeast-1.amazonaws.com"
+
+# API KEYS
+REACT_APP_TOOL_API_KEY_BIZ = "yMwfgKpzqdsI88vee7gI2ABfIU4XRt976fgL3rdg"
+REACT_APP_AUI_KEY_BIZ = "U1JPOFJYbDZzK0dJMG1ZYzl3MHJYSzgvcUI5OXBHcGI4SkJ1eWlwbkpDVT0="
+REACT_APP_TSA_KEY_BIZ = "WEIrd1cyTnR2L2FZeFhBZDRCc3NWbnN2VUVGN2gxST0="
+
+# TOOL ID
+REACT_APP_TID_BIZ = "13"
+
+#######################################################################################################
+
+# TOOL GLOBAL URL
+REACT_APP_URL_PM = "https://sb-sls-pofsis.pofsis.com"
+REACT_APP_URL_PSL = "http://sb-personal.pofsis.com"
+REACT_APP_URL_BIZ = "https://sb-v2-pofsis-business.pofsis.com"
+REACT_APP_URL_MP = "https://sb-market.pofsis.com"
+
+# TOOL WEBSITE
+REACT_APP_WS_URL = ""
+REACT_APP_WS_URL_PM = ""
+REACT_APP_WS_URL_PSL = "https://sb-personal-main.pofsis.com"
+REACT_APP_WS_URL_BIZ = "https://sb-business-main.pofsis.com"
+
+# API GLOBAL URL
+REACT_APP_API_URL_GLOBAL = "https://tpdjwm06fj.execute-api.ap-southeast-1.amazonaws.com/api/global/rqx"
+
+# KEYS
+REACT_APP_POF_GLOBAL_API_KEY = "tJ1ROscurb83mqyY4B0To5WTb4ekFzMa8LgGKoZh"
+
+# AWS CREDENTIALS
+REACT_APP_AWSS3_SECRET_ACCESS_KEY = "VWk13joNhj5YvKYMsbxrgpwNoqV/tGpIe3DVALzv"
+REACT_APP_AWSS3_ACCESS_KEY_ID = "AKIAQROAKUQZDSKWCHWK"
+REACT_APP_AWSS3_BUCKET_NAME = "marketing-system-repo"
+REACT_APP_AWSS3_REGION = "ap-southeast-1"

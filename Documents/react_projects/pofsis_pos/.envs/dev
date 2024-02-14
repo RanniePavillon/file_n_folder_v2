@@ -1,0 +1,58 @@
+# ENVIRONMENT
+REACT_APP_ENV = "dev"
+
+# PERSONAL 
+REACT_APP_URL_TOOL_PSL = "http://localhost:3000/psl"
+
+# API URL
+REACT_APP_API_URL_TOOL_PSL = "https://e5ijef3kyj.execute-api.ap-southeast-1.amazonaws.com"
+
+# API KEYS
+REACT_APP_TOOL_API_KEY_PSL = "kRfS9n61WcAgKoycufbR3izDOUixVu1KBOlrtPe0"
+REACT_APP_AUI_KEY_PSL = "U1JPOFJYbDZzK0dJMG1ZYzl3MHJYSzgvcUI5OXBHcGI4SkJ1eWlwbkpDN2Q="
+REACT_APP_TSA_KEY_PSL = "WEIrd1cyTnR2L2FZeFhBZDRCc3NWbnN2VUVGN2gxbXA="
+
+# TOOL ID
+REACT_APP_TID_PSL = "138"
+
+# <<<<<<<<<<<<----------------------->>>>>>>>>>>>>>
+
+# BUSINESS 
+REACT_APP_URL_TOOL_BIZ = "http://localhost:3000/biz"
+
+# API URL
+REACT_APP_API_URL_TOOL_BIZ = "https://hx1ii3grrd.execute-api.ap-southeast-1.amazonaws.com"
+
+# API KEYS
+REACT_APP_TOOL_API_KEY_BIZ = "RBZhOAoOdX7r6UCAYd6yH5vSK3h8Rh3s5QTFPBWG"
+REACT_APP_AUI_KEY_BIZ = "U1JPOFJYbDZzK0dJMG1ZYzl3MHJYSzgvcUI5OXBHcGI4SkJ1eWlwbkpDaz0="
+REACT_APP_TSA_KEY_BIZ = "WEIrd1cyTnR2L2FZeFhBZDRCc3NWbnN2VUVGN2gxND0="
+
+# TOOL ID
+REACT_APP_TID_BIZ = "14"
+
+#######################################################################################################
+
+# TOOL GLOBAL URL
+REACT_APP_URL_PM = "https://dev-sls-pofsis.pofsis.com"
+REACT_APP_URL_PSL = "http://dev-personal.pofsis.com"
+REACT_APP_URL_BIZ = "https://dev-pofsis-business.pofsis.com"
+REACT_APP_URL_MP = "https://dev-market.pofsis.com"
+
+# TOOL WEBSITE
+REACT_APP_WS_URL = ""
+REACT_APP_WS_URL_PM = ""
+REACT_APP_WS_URL_PSL = "https://dev-personal-main.pofsis.com"
+REACT_APP_WS_URL_BIZ = "https://dev-business-main.pofsis.com"
+
+# API GLOBAL URL
+REACT_APP_API_URL_GLOBAL = "https://tpdjwm06fj.execute-api.ap-southeast-1.amazonaws.com/api/global/rqx"
+
+# KEYS
+REACT_APP_POF_GLOBAL_API_KEY = "tJ1ROscurb83mqyY4B0To5WTb4ekFzMa8LgGKoZh"
+
+# AWS CREDENTIALS
+REACT_APP_AWSS3_SECRET_ACCESS_KEY = "VWk13joNhj5YvKYMsbxrgpwNoqV/tGpIe3DVALzv"
+REACT_APP_AWSS3_ACCESS_KEY_ID = "AKIAQROAKUQZDSKWCHWK"
+REACT_APP_AWSS3_BUCKET_NAME = "marketing-system-repo"
+REACT_APP_AWSS3_REGION = "ap-southeast-1"
